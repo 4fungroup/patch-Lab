@@ -14,3 +14,9 @@ anyway this can help you enjoy this game with perfect scripted monsters in the w
 
 ![bfalogo](https://cdn1.radikalno.ru/uploads/2019/6/3/68a1d7b2bc19225aa3f7f4c204911476-full.jpg)
 
+
+## BFACore Open Source MMO Framework (master = 8.0.1.28153) 
+https://github.com/BFASource/BFACore
+
+## Discord
+https://discord.gg/xsrMgS4
