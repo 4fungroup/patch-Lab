@@ -8,9 +8,9 @@ anyway this can help you enjoy this game with perfect scripted monsters in the w
 
 ## DONATE INFO:
 - If you wanna help project you can use one of this ways:
-a) Sberbank Card (RUB) : 4276 6000 1087 7237
-b) Tinkoff Bank (RUB,$) : 5213 2438 4678 6349
-c) PayPal : paypal.me/coolerSAI
+- a) Sberbank Card (RUB) : 4276 6000 1087 7237
+- b) Tinkoff Bank (RUB,$) : 5213 2438 4678 6349
+- c) PayPal : paypal.me/coolerSAI
 
 ![bfalogo](https://cdn1.radikalno.ru/uploads/2019/6/3/68a1d7b2bc19225aa3f7f4c204911476-full.jpg)
 
