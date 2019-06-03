@@ -11,6 +11,9 @@ anyway this can help you enjoy this game with perfect scripted monsters in the w
 - a) Sberbank Card (RUB) : 4276 6000 1087 7237
 - b) PayPal : https://www.paypal.me/coolerSAI/
 
+## DONATE THANKS:
+- zealot2007 (in $)
+
 ![bfalogo](https://cdn1.radikalno.ru/uploads/2019/6/3/68a1d7b2bc19225aa3f7f4c204911476-full.jpg)
 
 
