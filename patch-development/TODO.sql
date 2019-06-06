@@ -4,8 +4,6 @@ Legion Zones:
 
 -- Broken Shore	
 
--- Suramar
-
 -- Val'sharah	
 
 Legion Dungeons:
