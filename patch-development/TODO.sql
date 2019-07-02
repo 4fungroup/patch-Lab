@@ -26,10 +26,6 @@ BfA Zones:
 
 -- Tol Dagor	
 
--- Tol Dagor	
-
--- Tradewinds Market	
-
 -- Vol'dun	
 
 -- Zuldazar
