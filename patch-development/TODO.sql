@@ -4,8 +4,6 @@ Legion Zones:
 
 -- Broken Shore	
 
--- Val'sharah	
-
 Legion Dungeons:
 
 Legion Raids:
