@@ -1,15 +1,5 @@
 SmartAI Scripts TODO:
 
-Legion Zones:
-
--- Broken Shore	
-
-Legion Dungeons:
-
-Legion Raids:
-
-https://www.wowhead.com/level-100-110-zones#zones:0+1+2+4
-
 \\ -- 8.1.x patch \\
 
 BfA Zones:
