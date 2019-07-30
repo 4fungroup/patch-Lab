@@ -24,8 +24,6 @@ BfA Dungeons:
 
 -- Siege of Boralus	
 
--- Tol Dagor	
-
 -- Freehold	
 
 -- Kings' Rest	
