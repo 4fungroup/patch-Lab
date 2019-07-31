@@ -32,8 +32,6 @@ BfA Dungeons:
 
 -- Shrine of the Storm	
 
--- The Underrot	
-
 -- Waycrest Manor
 
 BfA Raids:
