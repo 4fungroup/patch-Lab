@@ -28,8 +28,6 @@ BfA Dungeons:
 
 -- Kings' Rest	
 
--- Temple of Sethraliss	
-
 -- Shrine of the Storm	
 
 -- Waycrest Manor
