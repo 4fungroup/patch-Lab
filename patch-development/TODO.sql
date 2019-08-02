@@ -20,8 +20,6 @@ BfA Zones:
 
 BfA Dungeons:
 
--- Atal'Dazar	
-
 -- Siege of Boralus	
 
 -- Freehold	
