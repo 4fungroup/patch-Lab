@@ -1,6 +1,6 @@
 SmartAI Scripts TODO:
 
-\\ -- 8.1.x patch \\
+\\ -- 8.1.5 patch \\
 
 BfA Zones:
 
@@ -11,8 +11,6 @@ BfA Zones:
 -- Stormsong Valley	
 
 -- Tiragarde Sound	
-
--- Tol Dagor	
 
 -- Vol'dun	
 
@@ -30,15 +28,9 @@ BfA Dungeons:
 
 BfA Raids:
 
--- Crucible of Storms	
-
 -- Battle of Dazar'alor	
 
 -- Uldir
 
 
 https://www.wowhead.com/level-110-120-zones#zones:0+1+2+4
-
-
-
-
