@@ -26,8 +26,6 @@ BfA Dungeons:
 
 -- Kings' Rest	
 
--- Shrine of the Storm	
-
 -- Waycrest Manor
 
 BfA Raids:
