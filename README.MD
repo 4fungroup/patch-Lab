@@ -30,7 +30,7 @@ P>S> don't forget set mmaps ON in worldserver.conf
 
 
 ## BFACore Open Source MMO Framework (master = 8.0.1.28153) 
-https://github.com/BFASource/BFACore
+https://github.com/BFASource/BFACoreN
 
 ## Discord
 https://discord.gg/xsrMgS4
