@@ -22,8 +22,6 @@ BfA Dungeons:
 
 -- Freehold	
 
--- Kings' Rest	
-
 -- Waycrest Manor
 
 BfA Raids:
