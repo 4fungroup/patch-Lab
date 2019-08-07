@@ -20,8 +20,6 @@ BfA Dungeons:
 
 -- Siege of Boralus	
 
--- Freehold	
-
 -- Waycrest Manor
 
 BfA Raids:
