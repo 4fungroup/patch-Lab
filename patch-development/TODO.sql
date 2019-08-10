@@ -18,8 +18,6 @@ BfA Zones:
 
 BfA Dungeons:
 
--- Siege of Boralus	
-
 -- Waycrest Manor
 
 BfA Raids:
