@@ -16,10 +16,6 @@ BfA Zones:
 
 -- Zuldazar
 
-BfA Dungeons:
-
--- Waycrest Manor
-
 BfA Raids:
 
 -- Battle of Dazar'alor	
