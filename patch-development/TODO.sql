@@ -1,7 +1,5 @@
 SmartAI Scripts TODO:
 
-\\ -- 8.1.5 patch \\
-
 BfA Zones:
 
 -- Drustvar	
@@ -15,12 +13,5 @@ BfA Zones:
 -- Vol'dun	
 
 -- Zuldazar
-
-BfA Raids:
-
--- Battle of Dazar'alor	
-
--- Uldir
-
 
 https://www.wowhead.com/level-110-120-zones#zones:0+1+2+4
